@@ -1,0 +1,17 @@
+{
+  "name": "no-claudish",
+  "owner": {
+    "name": "partybustohell"
+  },
+  "metadata": {
+    "description": "One skill: plain English instead of Claudish."
+  },
+  "plugins": [
+    {
+      "name": "no-claudish",
+      "source": "./",
+      "description": "Rewrite Claudish (Claude's over-engineered prose style) into plain English, and keep Claude's own output plain.",
+      "version": "1.0.0"
+    }
+  ]
+}

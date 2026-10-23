@@ -1,0 +1,7 @@
+{
+  "name": "no-claudish",
+  "version": "1.0.0",
+  "description": "Rewrite Claudish (Claude's over-engineered prose style) into plain English, and keep Claude's own output plain.",
+  "author": { "name": "partybustohell" },
+  "keywords": ["writing", "prose", "plain-english", "style"]
+}
